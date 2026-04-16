@@ -1,0 +1,20 @@
+form{
+    text-align: center;
+    align-items: center;
+}
+
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: darkgray;
+    padding: 10px;
+    margin: auto;
+}
+textarea{
+    padding: 10px;
+    margin: auto;
+}
